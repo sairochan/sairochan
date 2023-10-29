@@ -5,7 +5,7 @@
 
 - [Examstudytool.com](https://www.examstudytool.com/)
 - # Reinforcement-Learning 101 and Deep.
-- Java, Python, Jakarta, J2EE/Java EE, Spring, .net, flask, APIs.
+- Java, Python, Jakarta, J2EE/Java EE, Spring.
 - UI Technlogies ( Angular, React )
 
 Random Agent Vs Inteli Q-Agent running in the GRIDWORLD ::
