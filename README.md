@@ -4,6 +4,8 @@
 
 👯 Join the Journey @[Examstudytool](https://www.examstudytool.com/) 
 
+📫 How to reach me: sairochanmantri@gmail.com
+
 ⚡ Fun fact: Explore & Exploit
 
 <img src="https://github.com/sairochan/Reinforcement-Learning/assets/26859533/19b501b5-76f1-4738-80ba-d3af55308411)" width="250" height="250"/>
