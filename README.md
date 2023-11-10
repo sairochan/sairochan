@@ -1,14 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
 
-- [Examstudytool.com](https://www.examstudytool.com/)
-- # Reinforcement-Learning 101 and Deep.
-- Java, Python, Jakarta, J2EE/Java EE, Spring.
-- UI Technlogies ( Angular, React )
+- Join the Journey 👯 [Examstudytool](https://www.examstudytool.com/) 
 
-Random Agent Vs Inteli Q-Agent running in the GRIDWORLD ::
+⚡ Fun fact about me: Explore and Exploit.
 
 <img src="https://github.com/sairochan/Reinforcement-Learning/assets/26859533/19b501b5-76f1-4738-80ba-d3af55308411)" width="250" height="250"/>
 <img src="https://github.com/sairochan/Reinforcement-Learning/assets/26859533/1ecb715f-e74d-4daa-9971-90ef91990cff" width="250" height="250"/>
