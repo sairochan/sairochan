@@ -4,7 +4,7 @@
 
 👯 Join the Journey @[Examstudytool](https://www.examstudytool.com/) 
 
-📫 How to reach me: sairochanmantri@gmail.com
+📫 Reach me: sairochanmantri@gmail.com
 
 ⚡ Fun fact: Explore & Exploit
 
